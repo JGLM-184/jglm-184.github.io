@@ -361,8 +361,7 @@ header {
   padding: 25px;
   background-color: var(--fundo-card);
   border-radius: 14px;
-  box-shadow: var(--sombra);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease;
 }
 
 .card-habilidade:hover {
@@ -455,8 +454,7 @@ header {
   background-color: var(--fundo-card);
   border-radius: 14px;
   overflow: hidden;
-  box-shadow: var(--sombra);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease;
 }
 
 .card-projeto:hover {
@@ -785,7 +783,6 @@ header {
   justify-content: space-between;
   background-color: var(--fundo-card);
   border-radius: 12px;
-  box-shadow: var(--sombra);
 }
 /*
 .curso-card:last-child {
@@ -849,7 +846,6 @@ header {
   padding: 28px;
   background-color: var(--fundo-card);
   border-radius: 14px;
-  box-shadow: var(--sombra);
 }
 
 .trajetoria-header {
